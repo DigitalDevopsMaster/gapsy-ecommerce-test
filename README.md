@@ -1,11 +1,8 @@
 # gapsy-ecommerce-test
 
-Para poder probar la app, hay que ingresar a la raiz y ejecutar el comando npm run dev
+Para poder probar la app, hay que cloner el proyecto, ingresar a la raiz y ejecutar el comando npm run dev
 
-
-
--
-
+**** No me dio tiempo de agregar el feature de cargar mas elemntos al llegar al fin del scroll, pero agregue un boton de ejemplo
 
 
 Patrones utilizados:
