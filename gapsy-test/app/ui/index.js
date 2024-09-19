@@ -1,4 +1,6 @@
 import Container from "./Container";
+import Fetching from "./Fetching";
+import Loading from "./Loading";
 import Header from "./Header";
 import ListItem from "./ListItem";
 import Page from "./Page";
@@ -16,5 +18,7 @@ export {
     ProductList,
     SearchBar,
     Text,
-    MenuButton
+    MenuButton,
+    Fetching,
+    Loading
 } 

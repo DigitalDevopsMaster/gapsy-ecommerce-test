@@ -24,15 +24,16 @@ const Container = ({
     align,
     justify,
     direction,
+    wrap,
     containerStyle
 }) => {
-    console.log({align});
     return (
         <StyledContainer className={className} 
             direction={direction}
             justify={justify}
             align={align}
             containerStyle={containerStyle}
+            wrap={wrap}
         >{children}</StyledContainer>
     );
 }
